@@ -1,2 +1,2 @@
-# laravel-venus
-针对venus环境对laravel的
+# laravel
+对laravel框架的改造
